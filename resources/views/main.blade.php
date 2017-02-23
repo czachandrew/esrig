@@ -60,8 +60,8 @@
                                         <li><a href="single-post.html">single post</a></li>
                                     </ul>
                                 </li> -->
-                                <li><a href="#ms-pricing">price</a></li>
-                                <li><a href="#ms-contact">contact</a></li>
+                                <li><a href="#pricing">price</a></li>
+                                <li><a href="#contact">contact</a></li>
                            </ul>
                         </div>
                     <!-- /Menu -->
@@ -454,7 +454,7 @@
             <!-- /Blog -->
 
             <!-- Pricing -->
-                <section class="ms-pricing">
+                <section class="ms-pricing" id="pricing">
                     <div class="row">
                         <div class="ms-title">
                             <h2>ready to purchase?</h2>
@@ -564,7 +564,7 @@
             <!-- /Subscribe -->
 
             <!-- Contact -->
-                <section class="ms-contact">
+                <section class="ms-contact" id="contact">
                     <div class="row">
                         <div class="ms-title">
                             <h2>Contact</h2>
