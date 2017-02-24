@@ -583,7 +583,7 @@
                                     </div>
                                     <div class="col-md-6 info info-horizontal">
                                         <div class="description">
-                                            <p>+22 852 741 936</p>
+                                            <p>+1 847 260-7278</p>
                                             <p>info@esrig.com</p>
                                         </div>
                                     </div>
