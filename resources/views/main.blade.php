@@ -575,7 +575,7 @@
                                 <div class="col-md-6">
                                     <div class="col-md-6 info info-horizontal">
                                         <div class="description">
-                                            <p> 105 Townline Road, Suite 169<br>
+                                            <p> 616 Atrium Dr. Suite 200<br>
                                                 Vernon Hills,<br>
                                                 Illinois
                                             </p>
