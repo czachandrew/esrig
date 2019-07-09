@@ -7,13 +7,13 @@
         <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="keywords" content="" />
-        <meta name="description" content="ESRIG - A technology purchasing agency" />
+        <meta name="description" content="UUDLES - A technology purchasing agency" />
 
         <!-- Favicon -->
         <link rel="icon" type="image/png" href="assets/images/ico/favicon.ico"/>
 
         <!-- Page Title -->
-        <title>ESRIG</title>
+        <title>UUDLES</title>
 
         <!-- Plugins -->
         <link rel="stylesheet" href="assets/css/plugins.min.css">
@@ -37,7 +37,7 @@
                 <div class="header-inner">
                     <div class="logo col-xs-2 col-md-2">
                         <a href="/">
-                            <img src="assets/images/esrig.png" alt="logo">
+                            <img src="assets/images/UUDLES.png" alt="logo">
                         </a>
                     </div>
                     <div class="mobile-menu-btn col-sm-2 col-md-2">
@@ -575,7 +575,7 @@
                                 <div class="col-md-6">
                                     <div class="col-md-6 info info-horizontal">
                                         <div class="description">
-                                            <p> 616 Atrium Dr. Suite 200<br>
+                                            <p> 616 Atrium Dr. Suite 300<br>
                                                 Vernon Hills,<br>
                                                 Illinois
                                             </p>
@@ -583,8 +583,8 @@
                                     </div>
                                     <div class="col-md-6 info info-horizontal">
                                         <div class="description">
-                                            <p>+1 847 260-7278</p>
-                                            <p>info@esrig.com</p>
+                                            <p>+1 847 421-2100</p>
+                                            <p>bobdevers@uudles.com</p>
                                         </div>
                                     </div>
                                     <div class="info info-horizontal">
@@ -685,7 +685,7 @@
                         </li>
                     </ul>
                     <div class="copyright">
-                        Copyright © <script>document.write(new Date().getFullYear())</script> ESRIG All Rights Reserved.
+                        Copyright © <script>document.write(new Date().getFullYear())</script> UUDLES All Rights Reserved.
                     </div>
                 </div>
             </footer>
